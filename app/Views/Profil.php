@@ -13,8 +13,8 @@
 <body class="bg-white text-gray-900 antialiased min-h-screen flex flex-col">
 
 <nav class="w-full px-6 py-10 flex justify-center space-x-12 font-bold text-lg">
-    <a href="/PRAK601/public/beranda" class="text-gray-400 hover:text-black transition-colors">beranda</a>
-    <a href="/PRAK601/public/profil" class="text-black">profil</a>
+    <a href="/" class="text-gray-400 hover:text-black transition-colors">beranda</a>
+    <a href="/profil" class="text-black">profil</a>
 </nav>
 
 <main class="flex-grow w-full max-w-4xl mx-auto px-6 py-12 md:py-20">
