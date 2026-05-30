@@ -27,7 +27,7 @@
             Assalamualaikum Team, ulun dari Program Studi <strong class="text-black"><?= $profil['prodi'] ?></strong>. NIM ulun <strong class="text-black"><?= $profil['nim'] ?></strong>.
         </p>
         <div class="mt-10">
-            <a href="/PRAK601/public/profil" class="inline-block bg-black text-white font-bold py-4 px-10 rounded-full hover:bg-gray-800 transition-transform hover:-translate-y-1">
+            <a href="/profil" class="inline-block bg-black text-white font-bold py-4 px-10 rounded-full hover:bg-gray-800 transition-transform hover:-translate-y-1">
                 Profil Ulun
             </a>
         </div>
