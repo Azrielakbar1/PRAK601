@@ -58,17 +58,17 @@
 
             <div class="w-full md:w-1/2">
                 <div class="aspect-square bg-gray-100 rounded-3xl overflow-hidden border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all duration-300">
-                    <img src="/foto-kegiatan.jpg" alt="Dokumentasi Kegiatan" class="w-full h-full object-cover">
+                    <img src="/foto-post-basket.jpg" alt="Dokumentasi Kegiatan" class="w-full h-full object-cover">
                 </div>
             </div>
 
             <div class="w-full md:w-1/2 flex flex-col justify-center">
-                <h3 class="text-3xl font-bold mb-6 leading-snug">Observasi Jaringan Nirkabel di Fakultas Teknik ULM</h3>
+                <h3 class="text-3xl font-bold mb-6 leading-snug">Pekan Olahraga Teknik</h3>
                 <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                    Salah satu kegiatan praktikum lapangan yang cukup menantang adalah saat melakukan observasi langsung mengenai pergerakan jaringan (wireless roaming) dan efek redaman sinyal.
+                    Salah satu kegiatan yang berkesan di salah satu kegiatan kampus adalah PORTEK (Pekan Olahraga Teknik) dimana bersama teman-teman bertanding dengan Program Studi Lain.
                 </p>
                 <p class="text-lg text-gray-700 leading-relaxed">
-                    Kami melakukan pemetaan pada titik-titik pengujian spesifik, termasuk area Spot A dan Spot B di dalam gedung fakultas. Tujuan utamanya adalah untuk menganalisis secara langsung bagaimana material dan struktur fisik bangunan dapat mempengaruhi propagasi dan kekuatan koneksi infrastruktur jaringan secara *real-time*.
+                    Kami melakukan latihan bersama-sama, hampir setiap minggu. Walaupun menelan kekalahan, namun memori yang dihasilkan sangat berkesan
                 </p>
             </div>
         </div>
