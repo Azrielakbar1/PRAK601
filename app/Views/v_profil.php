@@ -49,8 +49,34 @@
             <span class="text-gray-400 font-bold mb-1 uppercase tracking-wider text-sm">Skill</span>
             <span class="font-semibold text-2xl"><?= $profil['skill'] ?></span>
         </div>
-
     </div>
+
+    <div class="mt-32 pt-16 border-t-4 border-black">
+        <h2 class="text-4xl font-extrabold mb-12">Memories</h2>
+
+        <div class="flex flex-col md:flex-row gap-12 items-center">
+
+            <div class="w-full md:w-1/2">
+                <div class="aspect-square bg-gray-100 rounded-3xl overflow-hidden border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] transition-all duration-300">
+                    <img src="/foto-kegiatan.jpg" alt="Dokumentasi Kegiatan" class="w-full h-full object-cover">
+                </div>
+            </div>
+
+            <div class="w-full md:w-1/2 flex flex-col justify-center">
+                <h3 class="text-3xl font-bold mb-6 leading-snug">Observasi Jaringan Nirkabel di Fakultas Teknik ULM</h3>
+                <p class="text-lg text-gray-700 leading-relaxed mb-6">
+                    Salah satu kegiatan praktikum lapangan yang cukup menantang adalah saat melakukan observasi langsung mengenai pergerakan jaringan (wireless roaming) dan efek redaman sinyal.
+                </p>
+                <p class="text-lg text-gray-700 leading-relaxed">
+                    Kami melakukan pemetaan pada titik-titik pengujian spesifik, termasuk area Spot A dan Spot B di dalam gedung fakultas. Tujuan utamanya adalah untuk menganalisis secara langsung bagaimana material dan struktur fisik bangunan dapat mempengaruhi propagasi dan kekuatan koneksi infrastruktur jaringan secara *real-time*.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="w-full text-center py-10 mt-10 text-gray-400 font-semibold text-sm">
+        &copy; 2026 PRAK601 - Web II
+    </footer>
 
 </main>
 
