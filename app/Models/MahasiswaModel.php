@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Models;
-use CodeIgniter\Model;
+
 
 class MahasiswaModel extends Model{
     public function getProfil(){
