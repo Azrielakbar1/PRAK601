@@ -2,8 +2,7 @@
 
 namespace App\Models;
 
-
-class MahasiswaModel extends Model{
+class MahasiswaModel{
     public function getProfil(){
         return [
             'nama' => 'Muhammad Azriel Akbar',
