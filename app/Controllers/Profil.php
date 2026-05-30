@@ -9,6 +9,6 @@ class Profil extends BaseController{
     public function index(){
         $model = new MahasiswaModel();
         $data['profil'] = $model->getProfil();
-        return view('profil', $data);
+        return view('v_profil', $data);
     }
 }
